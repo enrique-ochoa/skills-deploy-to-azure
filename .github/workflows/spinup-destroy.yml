@@ -1,4 +1,4 @@
-name: Configure Azure environment
+name: Configure Azure environment 0- Label Update
 
 on:
   pull_request:
